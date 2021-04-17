@@ -32,6 +32,7 @@
     "index.js",
     "esm.mjs",
     "typings/index.d.ts",
+    "src/*.js",
     "package-support.json"
   ],
   "type": "commonjs",
